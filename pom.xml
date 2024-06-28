@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.br.gustavobarez</groupId>
-	<artifactId>teste-application</artifactId>
+	<artifactId>gestao_vagas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>teste-application</name>
+	<name>gestao_vagas</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -52,7 +52,6 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<scope>runtime</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
